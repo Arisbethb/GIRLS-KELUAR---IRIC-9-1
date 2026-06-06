@@ -10,7 +10,7 @@ Repositorio oficial del equipo **GIRLS KELUAR - IRIC 9-1**. Esta es una aplicaci
 * **Arisbethb** (Administradora / DevOps & Infraestructura)
 * **keylaam0** (Desarrolladora Fullstack / Frontend & UI)
 * **Luma-23** (Desarrolladora Backend / API & Base de Datos)
-* **ivroche** (Diseño de Datos & Documentación)
+
 
 ---
 
